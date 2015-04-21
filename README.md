@@ -86,7 +86,7 @@ Group Member Project Setup
     * Find your project
     * Clone
 * Open Eclipse
-  * File->Import->Git->Projects from Git->Existing local repository
+  * File->Import->Maven->Local Maven Project->Existing local repository
     * Click add...
       * Browse
         * Locate you GitHub folder, select the project inside
