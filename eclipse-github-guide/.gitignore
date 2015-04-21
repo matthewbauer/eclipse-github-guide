@@ -1,0 +1,10 @@
+.DS_Store
+.classpath
+.metadata
+.recommenders
+bin
+target
+*.class
+*.zip
+*.jar
+*.log
