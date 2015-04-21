@@ -24,6 +24,7 @@ Initial Project Setup
     * Finish
   * Click Window->Show View->Navigator
     * Open the .gitignore file in your project and add the following:
+```gitignore
 .DS_Store
 .classpath
 .metadata
@@ -34,6 +35,7 @@ target
 *.zip
 *.jar
 *.log
+```
   * Right click on the project
     * Configure->Convert to Maven Project
     * Use defaults
